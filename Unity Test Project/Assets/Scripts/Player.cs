@@ -5,6 +5,7 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     float moveSpeed = 5.0f;
+    Vector3 direction;
 
     // Start is called before the first frame update
     void Start()
@@ -20,6 +21,6 @@ public class Player : MonoBehaviour
 
     void Move()
     {
-
+        
     }
 }
