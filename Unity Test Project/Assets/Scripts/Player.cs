@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Player : Champion
+public class Player : MonoBehaviour
 {
     Vector3 movePos;
     float moveSpeed = 3.4f;

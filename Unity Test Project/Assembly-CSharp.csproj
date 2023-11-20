@@ -83,6 +83,7 @@
     <None Include="Assets\Particles\Cartoon Particle\Cartoon FX Remaster\Readme Cartoon FX Remaster FREE.txt" />
     <None Include="Assets\Particles\Cartoon Particle\Cartoon FX Remaster\CFXR Prefabs\Texts\_Make your own text effect.txt" />
     <None Include="Assets\Particles\Cartoon Particle\Cartoon FX Remaster\CFXR Assets\Shaders\CFXR_PASSES.cginc" />
+    <None Include="Assets\Shaders\Outline Shader.shader" />
     <None Include="Assets\Particles\Cartoon Particle\Cartoon FX (legacy)\Shaders\CFXM_MobileParticleAdd_Alpha8.shader" />
     <None Include="Assets\Particles\Procedural fire\Shaders\FireSphere.shader" />
     <None Include="Assets\Particles\Cartoon Particle\Cartoon FX Remaster\CFXR Assets\Shaders\CFXR Particle Procedural Ring.shader" />
